@@ -1,6 +1,9 @@
 backend:
   name: bitbucket
   repo: ErwanEL/netlify-cms-tutorial
+  branch: default
+  auth_type: implicit
+  app_id: ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC46jH2A1RlTXxukHcgeXWaQomftRNkUPSfL1dlO3SDRBHWZ+zpkqKWuwWZqPTKWWYCEDvvSRpmidAXdEgVg0/cAtnfaLD1xHLuUafCgS5bETGEzm+zLXjx5P0PWc3Bl+UpA2Lyt6zB52OC14QRHWa/gFqTstxmmLtGnU298k/MJCDaAB5m5fx15CFznSXH1QpJb9oKXN7olyLcBihQoj2wE4WYRRVh0WL1P+igYrEYiQ2wnwKFGF9SjQF/uNoFZPiAZe1r0K+Hf/r4MzI1sthyomX3S1JWYYPzLQ2Jjziw+Yu2zSyGzdvpkffQDPHMjUu3JEwpzqdQoQocsm+KJ2oT
 
 media_folder: static/assets
 public_folder: assets
