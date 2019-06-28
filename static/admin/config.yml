@@ -1,7 +1,7 @@
 backend:
   name: bitbucket
   repo: ErwanEL/netlify-cms-tutorial
-  
+
 media_folder: static/assets
 public_folder: assets
 
