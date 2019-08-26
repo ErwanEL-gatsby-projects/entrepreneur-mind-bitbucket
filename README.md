@@ -1,21 +1,16 @@
-<p align="center">
-  <a href="https://modest-hugle-9e69b6.netlify.com/">
-    <img alt="logo" src="src/images/logo.png" width="60" />
-  </a>
-</p>
-<h1 align="center">
-  Entrepreneur Mind
-</h1>
+![logo](src/images/logo.png)
+
+# **Entrepreneur Mind**
 
 Le projet de entrepreneur mind est de créer un blog répertoriant du contenu provenant de livres s'incluant dans le thème de l'entrepreneuriat. D'autre thématiques seront abordées telles que le marketing, le management, la comptabilité ...
 
-#### <u>Technologies used:</u>
+#### _Technologies used:_
 
 - [Gatsby](https://www.gatsbyjs.org/docs/)
 - [React](https://fr.reactjs.org/docs/getting-started.html)
 - [Bulma](https://bulma.io/documentation/)
 
-#### <u>Services used:</u>
+#### _Services used:_
 
 - [Bitbucket](https://bitbucket.org/ErwanEL/netlify-cms-tutorial/src/master/)
 - [Netlify](https://app.netlify.com/sites/modest-hugle-9e69b6/overview)
@@ -23,7 +18,7 @@ Le projet de entrepreneur mind est de créer un blog répertoriant du contenu pr
 
 ---
 
-## <u>Project management:</u>
+## _Project management:_
 
 **[Trello board](https://trello.com/b/0rsyqY3t)**
 
@@ -60,10 +55,7 @@ Project path:</u>
 
 ---
 
-<h1 align="center">
-   🚩 Etat actuel du projet 🚩 <br>
-   <small>3 derniers ajouts</small>
-</h1>
+# 🚩 Etat actuel du projet 🚩
 
 1. Le cms est intégré à la version actuelle
 2. Le projet doit etre refait comme la version github
