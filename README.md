@@ -49,7 +49,7 @@ Project path:</u>
 
 # Notes
 
-- Ne pas oublier de versionné le projet
+- Ne pas oublier de versionner le projet
   - bien tracker le dossier du projet
   - organiser et mettre à jour le trello
 
