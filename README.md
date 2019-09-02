@@ -52,6 +52,15 @@ Project path:</u>
 - Ne pas oublier de versionner le projet
   - bien tracker le dossier du projet
   - organiser et mettre à jour le trello
+- [le repo bitbucket est synchronisé avec le repo github](https://github.com/ErwanEL/entrepreneur-mind-bitbucket)
+
+```sh
+#bitbucket
+git push origin master
+
+#github
+git push github
+```
 
 ---
 
