@@ -69,3 +69,5 @@ git push github
 1. Le cms est intégré à la version actuelle
 2. Le projet doit etre refait comme la version github
 3. Une fois à jour, le projet pourra continuer via trello
+4. Les packages et plugins ont été installés
+5. Le layout est integré à l'index
