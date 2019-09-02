@@ -24,7 +24,7 @@ Le projet de entrepreneur mind est de créer un blog répertoriant du contenu pr
 
 Project path:</u>
 
-`C:\Users\leblo\OneDrive\Bureau\netlify-cms-tutorial`
+`C:\Users\leblo\Non-synchro\netlify-cms-tutorial`
 
 ---
 
